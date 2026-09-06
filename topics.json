@@ -1,0 +1,74 @@
+[
+  {
+    "id": "deep-work-blocks",
+    "prompt": "Write about why most people's 'deep work' blocks fail within the first 20 minutes, and what actually fixes it (not app blockers).",
+    "tags": ["focus", "routines"],
+    "affiliate_cta": "noise-cancelling headphones or a website blocker tool"
+  },
+  {
+    "id": "async-communication",
+    "prompt": "Write about the specific habits that make someone easy to work with on a fully async remote team.",
+    "tags": ["remote-work", "communication"],
+    "affiliate_cta": "a project management or async video tool"
+  },
+  {
+    "id": "home-office-ergonomics",
+    "prompt": "Write about the three cheapest ergonomic fixes for a home office that actually reduce pain, versus the expensive ones that don't matter much.",
+    "tags": ["home-office", "health"],
+    "affiliate_cta": "a monitor arm or ergonomic keyboard"
+  },
+  {
+    "id": "single-tasking",
+    "prompt": "Write about why single-tasking is harder now than it was five years ago, and one practical constraint that forces it.",
+    "tags": ["focus"],
+    "affiliate_cta": "a distraction-free writing tool"
+  },
+  {
+    "id": "freelance-invoicing",
+    "prompt": "Write about the invoicing mistakes that cause freelancers to get paid late, and the simple process change that fixes most of them.",
+    "tags": ["freelance", "money"],
+    "affiliate_cta": "an invoicing or bookkeeping tool"
+  },
+  {
+    "id": "notification-hygiene",
+    "prompt": "Write about designing a personal notification policy — which interruptions earn a sound, which earn a badge, which earn nothing.",
+    "tags": ["focus", "tools"],
+    "affiliate_cta": "a website or app blocker"
+  },
+  {
+    "id": "commute-replacement",
+    "prompt": "Write about what remote workers lost when they lost the commute, and what specifically replaces its function (not just 'take a walk').",
+    "tags": ["remote-work", "wellbeing"],
+    "affiliate_cta": "a walking pad or audio subscription"
+  },
+  {
+    "id": "meeting-free-days",
+    "prompt": "Write about how to actually protect a meeting-free day on a team that doesn't officially have one.",
+    "tags": ["remote-work", "focus"],
+    "affiliate_cta": "a calendar or scheduling tool"
+  },
+  {
+    "id": "second-monitor-setup",
+    "prompt": "Write about how to decide what goes on a second monitor so it helps focus instead of adding more places to get distracted.",
+    "tags": ["home-office", "tools"],
+    "affiliate_cta": "a monitor or docking station"
+  },
+  {
+    "id": "freelance-rate-setting",
+    "prompt": "Write about the actual math freelancers should use to set an hourly rate, beyond 'charge what you're worth'.",
+    "tags": ["freelance", "money"],
+    "affiliate_cta": "a time-tracking or invoicing tool"
+  },
+  {
+    "id": "sleep-and-output",
+    "prompt": "Write about the specific ways poor sleep shows up in knowledge work output before it shows up as obvious tiredness.",
+    "tags": ["wellbeing", "focus"],
+    "affiliate_cta": "a sleep tracker or blue-light glasses"
+  },
+  {
+    "id": "email-triage",
+    "prompt": "Write about a triage system for email that takes under 10 minutes a day instead of living in the inbox.",
+    "tags": ["tools", "focus"],
+    "affiliate_cta": "an email client or inbox tool"
+  }
+]
